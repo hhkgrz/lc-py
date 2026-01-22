@@ -1,2 +1,2 @@
 # lc-py
-leecode solutions via python
+LeetCode solutions with Python.
