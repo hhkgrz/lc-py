@@ -2,7 +2,7 @@
 Test cases for p283_move_zeros.py
 """
 import pytest
-from src.p283_move_zeros import move_zeros
+from src.p_283_move_zeros import move_zeros
 
 
 def test_move_zeros_basic():
