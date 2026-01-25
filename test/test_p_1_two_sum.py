@@ -2,7 +2,7 @@
 Test cases for LeetCode 1: Two Sum
 """
 import pytest
-from p1_two_sum import two_sum
+from p_1_two_sum import two_sum
 
 
 @pytest.mark.leetcode
